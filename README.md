@@ -1,1 +1,5 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Go to the root folder:
+cd nextjs-blog
+
+Run the application:
+npm run dev
